@@ -6,9 +6,10 @@ Using a multimodal LLM like PixTral for image recognition is a powerful but some
 
 ## 📸 Screenshots
 
-![Home page](/assets/Screenshot_20241210_002046_Firefox.jpg)
-
-![In game](/assets/Screenshot_20241210_002209_Firefox.jpg)
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/Screenshot_20241210_002046_Firefox.jpg" alt="Home page" width="45%" />
+  <img src="./assets/Screenshot_20241210_002209_Firefox.jpg" alt="In game" width="45%" />
+</div>
 
 ## 🚀 How to Play
 
